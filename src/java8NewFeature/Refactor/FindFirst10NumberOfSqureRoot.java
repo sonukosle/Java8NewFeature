@@ -13,5 +13,9 @@ public class FindFirst10NumberOfSqureRoot {
                 .limit(10)
                 .collect(Collectors.toList());
 //        System.out.println(sqrtOf10Prime);
+//        System.out.println(sqrtOf10Prime);
+//        System.out.println(sqrtOf10Prime);
+//        System.out.println(sqrtOf10Prime);
+//        System.out.println(sqrtOf10Prime);
     }
 }
